@@ -17,7 +17,7 @@
   <h2>🛠️ Arsenal Technique</h2>
 
   <p>
-    <img src="https://skillicons.dev/icons?i=js,nodejs,c,cs,bash,mysql,postgres,docker,nginx,pm2,discord,stripe" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,discordjs,c,cs,bash,mysql,postgres,docker,ubuntu,git,nginx,discord,cloudflare" />
   </p>
 
   <br/>
